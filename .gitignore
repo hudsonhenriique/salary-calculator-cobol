@@ -1,0 +1,6 @@
+# Ignorar executáveis gerados na compilação
+*.exe
+*.bin
+*.out
+bin/
+obj/
