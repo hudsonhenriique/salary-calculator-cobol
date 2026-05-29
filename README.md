@@ -4,7 +4,7 @@
 ![TK4-IBM%20System%2F370-darkgreen?style=for-the-badge](https://img.shields.io/badge/TK4-IBM%20System%2F370-darkgreen?style=for-the-badge)
 ![zOS](https://img.shields.io/badge/Mainframe-Legacy%20Systems-black?style=for-the-badge)
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O **Sistema de Cálculo Salarial** é uma aplicação desenvolvida em **COBOL**, executada em ambiente **TK4-/MVS**, com foco na prática de programação procedural em sistemas legados de mainframe.
 
@@ -204,7 +204,7 @@ Este projeto teve como objetivo praticar:
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 **Hudson Henrique**
 
