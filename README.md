@@ -1,4 +1,4 @@
-# 💼 Sistema de Cálculo Salarial em COBOL
+# Sistema de Cálculo Salarial em COBOL
 
 ![COBOL](https://img.shields.io/badge/COBOL-Mainframe-blue?style=for-the-badge)
 ![TK4-IBM%20System%2F370-darkgreen?style=for-the-badge](https://img.shields.io/badge/TK4-IBM%20System%2F370-darkgreen?style=for-the-badge)
@@ -22,9 +22,9 @@ O objetivo do projeto foi consolidar conhecimentos relacionados à linguagem COB
 
 ---
 
-# ✨ Funcionalidades
+# Funcionalidades
 
-## 👤 Entrada de Dados
+## Entrada de Dados
 
 O sistema recebe:
 
@@ -34,7 +34,7 @@ O sistema recebe:
 
 ---
 
-## 💰 Cálculo de Bônus
+## Cálculo de Bônus
 
 O bônus é calculado automaticamente conforme o tempo de empresa:
 
@@ -46,7 +46,7 @@ O bônus é calculado automaticamente conforme o tempo de empresa:
 
 ---
 
-## 📊 Resumo do Pagamento
+## Resumo do Pagamento
 
 Após o processamento, o sistema exibe:
 
@@ -57,7 +57,7 @@ Após o processamento, o sistema exibe:
 
 ---
 
-## 🔄 Menu Interativo
+## Menu Interativo
 
 O programa possui:
 
@@ -67,7 +67,7 @@ O programa possui:
 
 ---
 
-## ⚠️ Validação de Dados
+## Validação de Dados
 
 Implementação de validação básica para:
 
@@ -77,7 +77,7 @@ Implementação de validação básica para:
 
 ---
 
-# 🏗️ Estrutura do Programa
+# Estrutura do Programa
 
 O sistema foi organizado utilizando modularização procedural com `PERFORM`.
 
@@ -94,7 +94,7 @@ MAIN-PROCEDURE
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - COBOL
 - TK4-/MVS
@@ -103,7 +103,7 @@ MAIN-PROCEDURE
 
 ---
 
-# 📚 Conceitos Aplicados
+# Conceitos Aplicados
 
 ## Programação Procedural
 
@@ -150,7 +150,7 @@ PIC ZZZZZ9.99
 
 ---
 
-# 🚀 Como Executar o Projeto
+# Como Executar o Projeto
 
 ## Pré-requisitos
 
@@ -160,7 +160,7 @@ PIC ZZZZZ9.99
 
 ---
 
-## ▶️ Fluxo de Execução
+## Fluxo de Execução
 
 ```text
 1 - Calcular Salário
@@ -176,7 +176,7 @@ Ao selecionar a opção de cálculo:
 
 ---
 
-# 📌 Regras de Negócio
+# Regras de Negócio
 
 - Funcionários com até 1 ano recebem 5% de bônus
 - Funcionários entre 2 e 5 anos recebem 10%
@@ -190,7 +190,7 @@ Salário Final = Salário Base + Bônus
 
 ---
 
-# 🎯 Objetivos do Projeto
+# Objetivos do Projeto
 
 Este projeto teve como objetivo praticar:
 
